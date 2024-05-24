@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Low-Code Development with Appsmith Building  Internal Tools and Business Applications*](https://link.springer.com/book/10.1007/978-1-4842-9813-8) by Rahul Sharma and Rajat Arora (Apress, 2023).
+This repository accompanies [*Low-Code Development with Appsmith: Building  Internal Tools and Business Applications*](https://link.springer.com/book/10.1007/978-1-4842-9813-8) by Rahul Sharma and Rajat Arora (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-9812-1.jpg)
